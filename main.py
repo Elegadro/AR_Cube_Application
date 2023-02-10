@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import time
 
 def distortPoints(img):
     h, w = img.shape[:2]
